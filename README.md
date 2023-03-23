@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sérgio Neves</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [sergioneves.pt](sergioneves.pt)
+- 👨‍💻 All of my projects are available at [sergioneves.pt](https://sergioneves.pt/)
 
 - 📫 How to reach me **sergionevespinheiro@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MLI6OI0sxq-tR2OzO38fSqCJ9gYq41My/view?usp=share_link](https://drive.google.com/file/d/1MLI6OI0sxq-tR2OzO38fSqCJ9gYq41My/view?usp=share_link)
+- 📄 Know about my experiences [Sérgio-Neves-resume-2023](https://drive.google.com/file/d/1MLI6OI0sxq-tR2OzO38fSqCJ9gYq41My/view?usp=share_link)
 
 - ⚡ Fun fact **I'm also a photographer**
 
