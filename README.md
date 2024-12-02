@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sergionevespinheiro@gmail.com**
 
-- 📄 Know about my experiences [Sérgio-Neves-resume-2023](https://drive.google.com/file/d/1MLI6OI0sxq-tR2OzO38fSqCJ9gYq41My/view?usp=share_link)
+- 📄 Know about my experiences [Sérgio-Neves-resume-2023](https://drive.google.com/file/d/1aTNeuHuCMVB7omgth5xqQMOgKb38z43M/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm also a photographer**
 
